@@ -1,0 +1,14 @@
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\bin\Debug\netcoreapp3.1\OperatorExercise2.exe
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\bin\Debug\netcoreapp3.1\OperatorExercise2.deps.json
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\bin\Debug\netcoreapp3.1\OperatorExercise2.runtimeconfig.json
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\bin\Debug\netcoreapp3.1\OperatorExercise2.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\bin\Debug\netcoreapp3.1\OperatorExercise2.dll
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\bin\Debug\netcoreapp3.1\OperatorExercise2.pdb
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.dll
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.pdb
+C:\Users\Adam\TrueCoders\repos\OperatorExercise2\obj\Debug\netcoreapp3.1\OperatorExercise2.genruntimeconfig.cache
